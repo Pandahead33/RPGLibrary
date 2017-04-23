@@ -1,4 +1,0 @@
-c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\bin\Debug\RPGLibrary.dll
-c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\bin\Debug\RPGLibrary.pdb
-c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\obj\Debug\RPGLibrary.dll
-c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\obj\Debug\RPGLibrary.pdb
