@@ -1,0 +1,8 @@
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\obj\Debug\RPGTester.csprojResolveAssemblyReference.cache
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\bin\Debug\RPGTester.exe.config
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\bin\Debug\RPGTester.exe
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\bin\Debug\RPGTester.pdb
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\obj\Debug\RPGTester.exe
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\obj\Debug\RPGTester.pdb
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\bin\Debug\RPGLibrary.dll
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGTester\bin\Debug\RPGLibrary.pdb

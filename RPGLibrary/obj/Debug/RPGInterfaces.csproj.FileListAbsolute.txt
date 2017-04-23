@@ -1,0 +1,5 @@
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\bin\Debug\RPGInterfaces.dll
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\bin\Debug\RPGInterfaces.pdb
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\obj\Debug\RPGInterfaces.dll
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\obj\Debug\RPGInterfaces.pdb
+c:\users\pandahead33\documents\visual studio 2015\Projects\RPGInterfaces\RPGInterfaces\obj\Debug\RPGInterfaces.csprojResolveAssemblyReference.cache
